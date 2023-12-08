@@ -6,7 +6,7 @@
 html,
 body {
   transition: all 300ms ease-in ;
-  background-color: rgb(217, 217, 217);
+  background-color: #ececec;
   font-family: "Open Sans", system-ui, -apple-system, BlinkMacSystemFont,
       "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
